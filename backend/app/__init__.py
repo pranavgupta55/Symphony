@@ -1,0 +1,1 @@
+# Symphony AI Backend Application

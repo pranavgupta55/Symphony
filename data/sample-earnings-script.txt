@@ -1,0 +1,75 @@
+Welcome to TechCorp's Fourth Quarter 2024 Earnings Call. I'm Sarah Chen, Chief Executive Officer.
+
+I'm pleased to report strong performance this quarter. We delivered revenue of eighteen point five billion dollars, representing growth of twelve percent year over year. This exceeded our guidance range.
+
+Our cloud services division showed exceptional strength, growing thirty five percent with revenue of seven point two billion dollars. Enterprise adoption is accelerating faster than anticipated.
+
+Gross margin expanded to sixty two percent, up from fifty nine percent last year. This improvement reflects our ongoing focus on operational efficiency and the favorable mix shift toward higher margin cloud services.
+
+Operating income increased twenty eight percent to four point one billion dollars. Diluted earnings per share came in at three dollars and forty five cents, beating analyst estimates.
+
+Looking ahead, we're investing heavily in artificial intelligence capabilities. We expect AI to become a significant growth driver in the coming years.
+
+For the full year 2025, we're projecting revenue growth in the range of fifteen to eighteen percent. We remain confident in our market position and execution capabilities.
+
+Now I'll turn it over to Michael Rodriguez, our Chief Financial Officer, for more details on the financials.
+
+Thank you, Sarah. Let me walk through the key financial metrics in more detail.
+
+Total revenue for the quarter was eighteen point five billion dollars. Product revenue was eleven point three billion, while services revenue reached seven point two billion.
+
+Our operating expenses increased by nine percent to six point eight billion dollars. This increase was primarily driven by research and development investments in our AI platform.
+
+Free cash flow for the quarter was three point six billion dollars, bringing our total cash and marketable securities to forty two billion.
+
+We returned two billion dollars to shareholders through dividends and share buybacks during the quarter. Our board has approved an additional ten billion dollar buyback authorization.
+
+We're forecasting first quarter revenue between seventeen point eight and eighteen point two billion dollars, representing year over year growth of approximately ten to twelve percent.
+
+Capital expenditures for fiscal year 2025 are expected to be in the range of eight to nine billion dollars as we expand our data center capacity.
+
+With that, we'll now open the call for questions from analysts.
+
+Great. Thank you. First question from Jessica Morgan at Goldman Sachs.
+
+Hi, thanks for taking my question. Can you provide more color on the AI opportunity and how you're thinking about monetization?
+
+Excellent question, Jessica. We're seeing tremendous enterprise interest in our AI platform. We have over five thousand customers in our early access program.
+
+We expect to begin broad commercialization in the second quarter. Initial pricing will be consumption based, with premium tiers for advanced features.
+
+Based on early customer feedback, we believe this could add two to three billion dollars in annual recurring revenue within eighteen months.
+
+That's helpful. And as a follow up, can you discuss any competitive pressures you're seeing in the cloud market?
+
+The competitive environment remains intense, but we're gaining share in key enterprise segments. Our differentiation comes from our integrated platform approach and superior customer support.
+
+We did see some pricing pressure in the small and medium business segment, which impacted margins slightly. However, enterprise deals continue to show healthy pricing.
+
+Next question from David Kim at Morgan Stanley.
+
+Hi there. Congratulations on the strong quarter. I wanted to ask about your international expansion plans.
+
+Thank you, David. International represents thirty eight percent of our revenue and continues to grow faster than domestic. Europe showed particular strength this quarter, up twenty two percent.
+
+We're expanding our presence in Asia Pacific with three new data centers planned for next year. We see significant whitespace opportunity in emerging markets.
+
+That said, we're monitoring foreign exchange headwinds and potential regulatory challenges in certain regions.
+
+Great. And what about the supply chain situation for your hardware products?
+
+Supply chain constraints have eased significantly compared to last year. We're back to normal lead times for most products.
+
+However, we are seeing some component shortages for our new AI accelerator chips. We're working closely with suppliers to ramp production.
+
+Final question from Rachel Thompson at JPMorgan.
+
+Hi, good afternoon. Can you discuss capital allocation priorities going forward?
+
+Our first priority remains investing in the business, particularly in AI and cloud infrastructure. We believe these investments will drive long term shareholder value.
+
+Beyond that, we're committed to returning excess capital to shareholders through dividends and buybacks. We evaluate this on a quarterly basis.
+
+We maintain a strong balance sheet with flexibility to pursue strategic acquisitions if the right opportunities arise.
+
+Thank you all for joining today's call. We appreciate your continued support and look forward to updating you next quarter.
